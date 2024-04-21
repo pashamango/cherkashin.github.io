@@ -1,3 +1,3 @@
 Hello, World!
-!pashamango1
+![pashamango1](/assets/images/pashamango1.png)
 
